@@ -2,7 +2,7 @@
 
 Name:		gtkshots
 Version:	0.1
-Release:	1
+Release:	2
 Summary:	An utility to capture screenshots continuously
 Group:		Graphics
 License:	GPLv2+
