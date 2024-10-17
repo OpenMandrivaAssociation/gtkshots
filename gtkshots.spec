@@ -6,7 +6,7 @@ Release:	2
 Summary:	An utility to capture screenshots continuously
 Group:		Graphics
 License:	GPLv2+
-URL:		http://gtkshots.sourceforge.net
+URL:		https://gtkshots.sourceforge.net
 Source:		http://sourceforge.net/projects/gtkshots/files/%{name}/%{version}/%{sname}-%{version}.tar.gz
 BuildRequires:	imagemagick
 Requires:	pygtk2
